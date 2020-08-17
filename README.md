@@ -1,5 +1,4 @@
 # ejemplo
-repositorio para Joel
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +33,7 @@ repositorio para Joel
 </details>
 </body>
 <footer>
-	<img src="imagenes/html_css_js.jpg"> 
+	<img class="img-responsive" src="http://lorempixel.com/700/400/nature/1" alt="hormiga en una hoja">
 	<p>This page was created by JoelR. For more information visit <a href="http://www.intro-webdesign.com."> Intro to Web Design</a></p>	
 		
 </footer>
