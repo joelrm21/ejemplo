@@ -32,7 +32,7 @@
 </details>
 </body>
 <footer>
-	<img class="img-responsive" src="http://lorempixel.com/700/400/nature/1" alt="">
+	<img class="img-responsive" src="http://lorempixel.com/700/400/nature/1" alt="hormiga">
 	<p>This page was created by JoelR. For more information visit <a href="http://www.intro-webdesign.com."> Intro to Web Design</a></p>	
 		
 </footer>
