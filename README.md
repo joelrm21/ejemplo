@@ -1,5 +1,4 @@
 # ejemplo
-repositorio para Joel
 <!DOCTYPE html>
 <html>
 <head>
