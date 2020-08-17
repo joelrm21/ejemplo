@@ -1,6 +1,4 @@
 # ejemplo
-Repositio para Joel
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -34,7 +32,7 @@ Repositio para Joel
 </details>
 </body>
 <footer>
-	<img src="imagenes/html_css_js.jpg"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/EAN13.svg/1200px-EAN13.svg.png> 
 	<p>This page was created by JoelR. For more information visit <a href="http://www.intro-webdesign.com."> Intro to Web Design</a></p>	
 		
 </footer>
